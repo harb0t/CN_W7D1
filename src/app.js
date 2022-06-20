@@ -26,6 +26,8 @@ const movies =[];
 
 if (input[2] === "add"){
     const movieObj = new Movie(input[3], input[4]);
+    const movieObj2 = new Movie(input[5], input[6]);
     // new key word needed when working with classes
     movieObj.add();
+    movieObj2.add();
 }

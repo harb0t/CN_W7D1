@@ -5,7 +5,6 @@ class Movie {
     constructor(title, actor = "Not specified") {
 
         this.title = title;
-
         this.actor = actor;
 
     };
