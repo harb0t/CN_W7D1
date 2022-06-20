@@ -1,0 +1,19 @@
+{
+  "name": "cn_w7d1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harb0t/CN_W7D1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harb0t/CN_W7D1/issues"
+  },
+  "homepage": "https://github.com/harb0t/CN_W7D1#readme"
+}
